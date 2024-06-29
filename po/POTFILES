@@ -1,0 +1,6 @@
+data/com.qrtal.DiffEq.desktop.in
+data/com.qrtal.DiffEq.metainfo.xml.in
+data/com.qrtal.DiffEq.gschema.xml
+src/main.py
+src/window.py
+src/window.ui

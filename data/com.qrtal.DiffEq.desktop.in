@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=diff-eq
+Exec=diff-eq
+Icon=com.qrtal.DiffEq
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
